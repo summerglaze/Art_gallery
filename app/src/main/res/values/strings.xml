@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="title_1">Sydney, Opera House during daytime</string>
+    <string name="title_2">Uluru, a mountain under blue sky</string>
+    <string name="title_3">Brown Joey on grass field</string>
+    <string name="title_4">Great Barrier Reef, white and black sea turtle</string>
+    <string name="author_1">Photo by Dan Freeman on Unsplash</string>
+    <string name="author_2">Photo by Photoholgic on Unsplash</string>
+    <string name="author_3">Photo by Christopher Burns on Unsplash</string>
+    <string name="author_4">Photo by Chad Taylor on Unsplash</string>
+</resources>
